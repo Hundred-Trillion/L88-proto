@@ -1,0 +1,2 @@
+Score evidence quality for answering the query.
+Return JSON: {"quality_score": 0-1, "is_sufficient": true/false, "missing_points": [..]}

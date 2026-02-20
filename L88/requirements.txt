@@ -1,0 +1,12 @@
+# L88/requirements.txt
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.9.2
+pydantic-settings==2.5.2
+numpy==1.26.4
+sentence-transformers==3.2.1
+rank-bm25==0.2.2
+faiss-gpu-cu12==1.9.0
+langgraph==0.2.35
+vllm==0.6.2
+pytest==8.3.3
