@@ -1,0 +1,2 @@
+Rewrite the user query for retrieval precision.
+Return JSON: {"refined_query": "..."}
