@@ -1,0 +1,2 @@
+Synthesize an answer grounded only in provided evidence.
+Return JSON: {"answer": "...", "citations": ["snippet1", "snippet2"]}
